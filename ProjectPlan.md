@@ -87,7 +87,7 @@
 
 7. **Vue.js**
 
-    * Used to break the project into components, also used for it's two-way binding.
+    * Used to break the project into components, also used for it's two-way binding. Helps make the code easier tp navigate and understand. 
 
 8. **Vue Router**
 
