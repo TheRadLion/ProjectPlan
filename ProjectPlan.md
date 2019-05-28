@@ -59,7 +59,7 @@
 
 ## Student Evaluation
 
-# *What Have I Learned That I Am Using In My Project?*
+## *What Have I Learned That I Am Using In My Project?*
 
 1. **HTML** 
 
@@ -97,10 +97,10 @@
 
     * Firebase is used to host the application. It provides Authentication, Cloud Storage, Analytics and a Realtime Database.
 
-# *How Has This Affected My View of Coding?*
+## *How Has This Affected My View of Coding?*
 
 Learning all these subjects has helped my visualize what actually goes into creating a web page or web app. Coding is a complicated process, but due to the internet one can learn a lot on their own.
 
-# *What Kind of Effort Did I Expend?*
+## *What Kind of Effort Did I Expend?*
 
 I spent many hours coding and creating this project. The most effort would have been debugging and figuring out what I did wrong and fixing it. It's a hard task to create a fully functioning application that does something useful and works correctly.
